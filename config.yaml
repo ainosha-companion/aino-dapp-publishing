@@ -1,0 +1,70 @@
+publisher:
+  name: Phi Tran
+  website: https://ainosha.com
+  email: phitran140322@gmail.com
+app:
+  name: AinoshaAI
+  address: ""
+  android_package: com.ai.ainoshaapp
+  urls:
+    license_url: https://app.ainosha.com/terms
+    copyright_url: https://app.ainosha.com/terms
+    privacy_policy_url: https://app.ainosha.com/privacy
+    website: https://ainosha.com
+  media:
+    - purpose: icon
+      uri: ./media/logo.png
+release:
+  address: ""
+  media:
+    - purpose: icon
+      uri: ./media/logo.png
+    - purpose: banner
+      uri: ./media/banner.png
+    - purpose: featureGraphic
+      uri: ./media/feature_graphic.png
+    - purpose: screenshot
+      uri: ./media/image1.png
+    - purpose: screenshot
+      uri: ./media/image2.png
+    - purpose: screenshot
+      uri: ./media/image3.png
+    - purpose: screenshot
+      uri: ./media/image4.png
+    - purpose: video
+      uri: ./media/video.mp4
+  files:
+    - purpose: install
+      uri: ./files/app-release.apk
+  catalog:
+    en-US:
+      name: Ainosha AI
+      short_description: AI-driven crypto analytics & personalized market insights
+      long_description: Ainosha is an AI-powered crypto analytics platform that turns complex on-chain data, social sentiment, and technical indicators into one-click reports and actionable signals. With support for multiple languages, seamless wallet authentication, and a suite of intelligent agents, Ainosha surfaces early opportunities, automates research, and gamifies your learning and earning experience.
+      new_in_version: |
+        Version 0.1.1 (alpha) introduces:
+        • Phantom + Solfare authentication flow
+        • Redesigned home page with real-time analytics
+        • Multi-agent dashboard for custom market scans
+        • Multi-language report generation
+        • Task module to earn “diamonds”
+        • Diamond conversion: redeem for subscription credits, higher Ainoverse rate limits, vouchers, airdrops, etc.
+        • Article Ainosha Agent (Learn-to-Earn)
+        • Referral program with F1–Fn tree rewards
+      saga_features: |
+        • Saga-native wallet integration via Phantom & Solfare
+        • On-device transaction signing and secure key management
+        • Native push notifications for market alerts
+        • Hardware-accelerated crypto ops for faster data processing
+solana_mobile_dapp_publisher_portal:
+  google_store_package: com.ai.ainoshaapp
+  testing_instructions: |
+    1. Tap “Connect Wallet” and choose Phantom (install if needed).
+    2. In Phantom, verify dApp name/icon and tap “Approve”.
+    3. Back in the dApp, Can test all features from dApp.
+    4. Repeat steps 1–3 with Solflare (or another Solana wallet).
+  alpha_testers:
+    - address: 5S2UieWfi3waMguDCCve3c3wvgw41SXkJ5PwSV6PK2wA
+      comment: Tester 1
+    - address: CBg3B5zngd3ksVyzgLxDeBSbYe4rqLw8iW2xsfEEqQYg
+      comment: Tester 2
