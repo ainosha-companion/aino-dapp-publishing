@@ -4,7 +4,7 @@ publisher:
   email: phitran140322@gmail.com
 app:
   name: AinoshaAI
-  address: ""
+  address: 6auxGe99xE6ggr9Bb6Fjb37UpJXpAbCKkB5Suj5dFwRc
   android_package: com.ai.ainoshaapp
   urls:
     license_url: https://app.ainosha.com/terms
@@ -15,7 +15,7 @@ app:
     - purpose: icon
       uri: ./media/logo.png
 release:
-  address: ""
+  address: ezpx776Ucy3daemBy7wAK96eU5KB8FdK8CwmcU6jNaD
   media:
     - purpose: icon
       uri: ./media/logo.png
@@ -35,11 +35,11 @@ release:
       uri: ./media/video.mp4
   files:
     - purpose: install
-      uri: ./files/app-release.apk
+      uri: ./files/AinoshaAI-v0.0.2-signed.apk
   catalog:
     en-US:
       name: Ainosha AI
-      short_description: AI-driven crypto analytics & personalized market insights
+      short_description: AI-powered crypto analytics
       long_description: Ainosha is an AI-powered crypto analytics platform that turns complex on-chain data, social sentiment, and technical indicators into one-click reports and actionable signals. With support for multiple languages, seamless wallet authentication, and a suite of intelligent agents, Ainosha surfaces early opportunities, automates research, and gamifies your learning and earning experience.
       new_in_version: |
         Version 0.1.1 (alpha) introduces:
@@ -68,3 +68,9 @@ solana_mobile_dapp_publisher_portal:
       comment: Tester 1
     - address: CBg3B5zngd3ksVyzgLxDeBSbYe4rqLw8iW2xsfEEqQYg
       comment: Tester 2
+lastSubmittedVersionOnChain:
+  address: ezpx776Ucy3daemBy7wAK96eU5KB8FdK8CwmcU6jNaD
+  version_code: 4
+  apk_hash: zdEm3wvrpGExh5mNasiQTinxhBnILFoakJ28CXFb9Xs=
+lastUpdatedVersionOnStore:
+  address: ezpx776Ucy3daemBy7wAK96eU5KB8FdK8CwmcU6jNaD

@@ -1,0 +1,54 @@
+{
+  "assets": {
+    "./media/logo.png": {
+      "path": "./media/logo.png",
+      "sha256": "PcJzHmOR2C3mb41l7FCiLrff18lFuUspQl+gK8N26c0=",
+      "uri": "https://arweave.net/p68VdQAnRKJ7m_jnsS6h5NnRPFZDdh1ujjmaN1D6nCY"
+    },
+    "./media/banner.png": {
+      "path": "./media/banner.png",
+      "sha256": "68claBaCYposB4i84Y6o/xB5VB5ZTgff1/sd3Inn6P4=",
+      "uri": "https://arweave.net/2XoiZiLm3AuQm-CG-EmQJh70f-8F0h6WVggunR4Ae_U"
+    },
+    "./media/image1.png": {
+      "path": "./media/image1.png",
+      "sha256": "dgY25W27nd9oWAgHTkVd6HPO25oeD+aZscpMbVI3rq0=",
+      "uri": "https://arweave.net/Y6NOPY9qCX-kK2mguP2h723ZAIFqWA7DhX1ESH8gvuQ"
+    },
+    "./media/image3.png": {
+      "path": "./media/image3.png",
+      "sha256": "HCKb2Fb1FYjW//AjWHjC5K3sSD50pbby5wG7YxyWyfw=",
+      "uri": "https://arweave.net/Ml1IbRtAfghB6kt9pembKspqPTPmrsvRXq-r3G-X3rA"
+    },
+    "./media/image4.png": {
+      "path": "./media/image4.png",
+      "sha256": "5O8wYc8xn1kXYVz5K7p1LV8Uc+G+/G1FoqC/LCy6gq8=",
+      "uri": "https://arweave.net/WaSV7PLAFX_aJbyZC4wgh8kqtBNFSTAlvdYAHOSknAw"
+    },
+    "./media/image2.png": {
+      "path": "./media/image2.png",
+      "sha256": "fCCfFironRpU+tf/TqZ7H/mX+4dZTpcDEM4aY2XXL8s=",
+      "uri": "https://arweave.net/jlZYXHPkN2aRaco4uvOUsEIhwbPe62wXgHWeD-A0QaI"
+    },
+    "./media/feature_graphic.png": {
+      "path": "./media/feature_graphic.png",
+      "sha256": "6TAW3Y/XiE8tW/aVzqXygCjC3KjqONuG6O8H71kfzI0=",
+      "uri": "https://arweave.net/d6VW81CweF3RlS1Vmb-4vZfQE2k5Iuc81Npp8uyujL0"
+    },
+    "./files/app-release.apk": {
+      "path": "./files/app-release.apk",
+      "sha256": "nP8KnP0iP7kCconLUUHkMtDHNZ2hqAS0MCvqfFp8Vjs=",
+      "uri": "https://arweave.net/l2TEiWhB62-14QTEqzAgSWUTm6Z7zniwvcxpDS89tDQ"
+    },
+    "./media/video.mp4": {
+      "path": "./media/video.mp4",
+      "sha256": "0CHK2dFEJyw5YaQN+YmSOFve1msKrQSMSkD42DdMZ28=",
+      "uri": "https://arweave.net/ritN_X-RR_90ZAzThE7wGcn0fJTExYEtFtDxjoKTFM8"
+    },
+    "./files/AinoshaAI-v0.0.2-signed.apk": {
+      "path": "./files/AinoshaAI-v0.0.2-signed.apk",
+      "sha256": "zdEm3wvrpGExh5mNasiQTinxhBnILFoakJ28CXFb9Xs=",
+      "uri": "https://arweave.net/IQlo_kXcwtrq6Ec9tNjBUbkREu-utSlvXvbb6LN1HNA"
+    }
+  }
+}
